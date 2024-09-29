@@ -1,0 +1,47 @@
+body{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+header{
+display: flex;
+border: 5px solid black;
+}
+#Header_Assets{
+    display: flex;
+    align-items:flex-end; 
+    padding-left: 68%;
+    gap: 10px;
+}
+#Name_Header{
+    padding-left: 7vh;
+}
+#Main_tittle{
+    border: 5px solid blueviolet;
+}
+#Title_main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Global_Mid{
+    border: 7px solid black;
+    padding-top: 10px;
+    height: 100vh;
+    display:grid;
+    flex-direction: column;
+}
+#Projects{
+    border: 5px solid green;
+    height: 5%;
+}
+#WorkExperience{
+    border: 5px solid coral;
+    height: 5%;
+}
+#Education{
+    border: 5px solid crimson;
+    height: 5%;
+}
