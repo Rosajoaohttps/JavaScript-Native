@@ -4,3 +4,11 @@ var Valor = "123456"
 let valor2 = "cachorro"
 //Exemplo de Const
 const nome = "José" 
+
+
+
+function somatoria(valor){
+    let valor = 1 
+    valor + 1;
+
+}
